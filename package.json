@@ -1,0 +1,15 @@
+{
+  "name": "blockchain-auto-transfer-bot",
+  "version": "1.0.0",
+  "description": "Bot untuk auto-transfer antar pengguna di berbagai jaringan blockchain",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ethers": "^6.13.4",
+    "dotenv": "^16.0.3"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
